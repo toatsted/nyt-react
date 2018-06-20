@@ -1,0 +1,12 @@
+.header {
+	text-align: center;
+	background-color: #bbb;
+	padding: 10px;
+	border-bottom: #000 2px solid;
+	border-left: #000 2px solid;
+	border-right: #000 2px solid;
+}
+
+h1 {
+	text-decoration: underline;
+}

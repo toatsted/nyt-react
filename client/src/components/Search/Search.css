@@ -1,0 +1,17 @@
+.search {
+	border: 2px #000 solid;
+	margin: 20px 0 0 0;
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+
+h2 {
+	border-bottom: 2px #000 solid;
+	padding: 5px;
+}
+
+.input {
+	width: 80%;
+	margin: 0 auto;
+}
